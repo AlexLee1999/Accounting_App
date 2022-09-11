@@ -1,0 +1,27 @@
+.delete-button {
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+  cursor: pointer;
+}
+.delete-button:hover {
+  color: red;
+}
+.edit-mode-done-btn {
+  display: block;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.edit-mode-done-btn:hover {
+  color: blue;
+}
+.edit-bill-title {
+  width: 100px;
+  display: inline-block;
+}
+.edit-bill-cost-input {
+  width: 100px;
+  display: inline-block;
+}

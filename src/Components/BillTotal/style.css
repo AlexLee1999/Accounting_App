@@ -1,0 +1,12 @@
+.bill-total-container {
+  width:  350px;
+  margin: 0 auto;
+  /* margin-top: 25px;
+  margin-bottom: 5px; */
+  font-size: 24px;
+}
+.total-cost {
+  font-weight: 600;
+  margin: auto;
+  /* margin-left: 10px; */
+}

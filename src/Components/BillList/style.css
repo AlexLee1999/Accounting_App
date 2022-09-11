@@ -1,0 +1,18 @@
+.bill-list-container {
+  margin: auto;
+  box-sizing: border-box;
+  width:  350px;
+  height: 100%;
+}
+.bill-list-row {
+  display: block;
+}
+.bill-list-row-content {
+  display: inline-block;
+}
+.edit-mode-btn {
+  cursor: pointer;
+}
+.edit-mode-btn:hover {
+  color: blue;
+}
